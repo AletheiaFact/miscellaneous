@@ -2,7 +2,7 @@
 >As primeiras checagens da plataforma AletheiaFact.org foram feitas a partir do discurso do Ministro do Meio Ambiente, Joaquim Leite, na COP 26.
 
 - **Íntegra do discurso**: https://www.gov.br/mma/pt-br/noticias/confira-a-integra-do-discurso-do-ministro-joaquim-leite-na-plenaria-da-cupula-do-clima
-- **Verificado por:** Mateus Batista e Tamiris Volcean ([aletheiafact.org](https://aletheiafact.org))
+- **Verificado por:** Mateus Santos e Tamiris Volcean ([aletheiafact.org](https://aletheiafact.org))
 - **Data de abertura:** 11/12/2021
 - **Data em que o conteúdo investigado foi publicado:** 03/02/2022
 
@@ -47,7 +47,7 @@ No Brasil, está em vigor a **Política de Recuperação de Vegetação Nativa**
 
 [[1]](#ref1) Dataset “COBERTURA E TRANSIÇÕES BIOMA & ESTADOS - Dados de área (ha) de cobertura e uso do solo por bioma e estado de 1985 a 2020: https://mapbiomas.org/statistics?cama_set_language=pt-BR
 
-[[2]](#ref2) Donte: Relatório em anexo baixado no dia 11/12/2021 de https://observatoriodarestauracao.org.br/app/home que usa parte do seu Banco de Dados informaçoes da Coleçao 5 do MapBiomas https://mapbiomas.org/
+[[2]](#ref2) Fonte: Relatório em anexo baixado no dia 11/12/2021 de https://observatoriodarestauracao.org.br/app/home que usa parte do seu Banco de Dados informaçoes da Coleçao 5 do MapBiomas https://mapbiomas.org/
 
 [[3]](#ref3) https://antigo.mma.gov.br/florestas/pol%C3%ADtica-nacional-de-recupera%C3%A7%C3%A3o-da-vegeta%C3%A7%C3%A3o-nativa.html
 
